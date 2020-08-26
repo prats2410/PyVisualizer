@@ -1,33 +1,13 @@
 # PyVisualizer
 
-== PyVisualizer is a small clone of streamlit.
-== Your Graphs/Tables can be converted innto Bootstrap4-driven diagrams
-   ready for presentation.
-== Suppose you write a code for Data Analytics and now, you want to create
-   a PyVisualizer output... Follow the steps below"
-   (*Make sure your code, visualize.py and dependencies folder are in same directory*)
-   Step 1:
-     in your .py file, first import pyvisualizer with the command:
-	>> from visualize import visualizer
-   Step 2:
-     Now initialize a visualizer object with the following command:
-        >> viz = visualizer()
-   Step 3:
-     Now, in your Data Analytics, suppose you have written plt.show()
-     somewhere in the code for generating a graph / visual-output...
-     Instead of that, you should do 
-     >> viz.jumbocard(Title = "Graph Title",ImageObject = plt, Description = "The Description for your Graph")
-     
-     Other than Jumbocard, there is support for Cards and RenderTable as well.
-  
-   Step 4:
-     Finally, when you are done with creating all the visualizations,
-     Enter the following command:
-     >> viz.generate_output()
-   
-   Step 5:
-     A folder named output is created in the same directory which has output HTML
-     file.
+This project has been carried out in collaboration with Nihar Salunkhe - Final Year CSE at University of Pune and under the Bangalore-based startups Edify Accelerators and Bloom India.
 
+Nihar Salunkhe created PyVisulaizer in June 2020 so that data scientists can easily render their analysis results to a dashboard format.
 
-NOTE: * An Example Code is Given in trails.py
+We make use of various Classification models to predict a person's Willingness to Donate Blood.
+
+Project Team Members:
+
+Neelima Saini - Program Manager at Intellify | Final Year MBA in Data Science at Institiute of Product Leadership, Bangalore
+Nikhil Kulkarni - Data Scientist and Web Developer | Junior Year BCE at Marathwada Mitra Mandal's College of Engineering, Pune
+Pratiksha Sharma - Research Intern at University of Masachussetts Boston | Final Year Bachelor of Data Science at S P Jain School of Global Management, Sydney
