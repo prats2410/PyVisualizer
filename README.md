@@ -1,8 +1,8 @@
 # PyVisualizer
 
-This project has been carried out in collaboration with Nihar Salunkhe - Final Year CSE at University of Pune and under the Bangalore-based startups Edify Accelerators and Bloom India.
+This project has been carried out in collaboration with Nihar Salunke - Final Year CSE at University of Pune and under the Bangalore-based startups Edify Accelerators and Bloom India.
 
-Nihar Salunkhe created PyVisulaizer in June 2020 so that data scientists can easily render their analysis results to a dashboard format.
+Nihar Salunke created PyVisulaizer in June 2020 so that data scientists can easily render their analysis results to a dashboard format.
 
 We make use of various Classification models to predict a person's Willingness to Donate Blood.
 
