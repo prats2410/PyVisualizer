@@ -10,4 +10,4 @@ Project Team Members:
 
 <li>Neelima Saini - Program Manager at Intellify | Final Year MBA in Data Science at Institiute of Product Leadership, Bangalore</li>
 <li>Nikhil Kulkarni - Data Scientist and Web Developer | Junior Year BCE at Marathwada Mitra Mandal's College of Engineering, Pune</li>
-<li>Pratiksha Sharma - Research Intern at University of Masachussetts Boston | Final Year Bachelor of Data Science at S P Jain School of Global Management, Sydney</li>
+<li>Pratiksha Sharma - Research Intern at University of Massachusetts Boston | Final Year Bachelor of Data Science at S P Jain School of Global Management, Sydney</li>
